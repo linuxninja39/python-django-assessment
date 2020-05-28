@@ -1,1 +1,9 @@
 .vscode
+.idea
+venv
+env
+build
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
